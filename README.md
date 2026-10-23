@@ -19,8 +19,7 @@ An Excel analysis of 100,000 food delivery orders (Jan 2025 – Aug 2026) to fin
 - **Promos cost profit:** promo orders earn about ₹32 less per order than orders with no promo. About 4% of promo orders lose money, against about 1% without a promo.
 - **Weak food types:** Burgers, Momos and South Indian earn only ₹46–51 profit per order, against ₹150 for Chicken. With a promo, Burgers, Momos and South Indian earn only about ₹29–38 per order.
 - **Rain slows delivery:** about 45 minutes in rain, against about 37 on clear days. Ratings stay the same (about 4.36).
-- **Limit:** promo orders were already lower-value, so this shows a link, not proof that promos cause lower profit.
-
+- **Limit:** promo orders had the same basket size as other orders (₹473 before discount) but about ₹60 more discount, so promos did not make baskets bigger. This shows a link, not a controlled test.
 ## Recommendations
 1. Pause promos on Burgers, Momos and South Indian.
 2. Test a smaller discount on other low-profit food types.
