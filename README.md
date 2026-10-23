@@ -44,8 +44,8 @@ Excel: PivotTables, PivotCharts, COUNTIFS, SUMIFS, IF, DATE formulas, data clean
 
 
 ## Files
-- Excel workbook (Data, Pivot, Summary, Data_Note sheets): [add your OneDrive link here]
-- Dataset: greedy_uber_eats_100k_orders.csv. Source: [add where you downloaded it]. This is a practice dataset, so the findings are for learning and do not describe the real Uber Eats business.
+- Excel workbook (Data, Pivot, Summary, Data_Note sheets): https://1drv.ms/x/c/744b6700ad99c87a/IQAykZjlbSrgQYBBEulv_BSTAVYei_0uTR787y5eMMrgh0I?e=MpFkxX
+- Dataset: https://1drv.ms/x/c/744b6700ad99c87a/IQDCFMczpUKZSrgh1FINcLkPAbhtEnTBHMmxJl77NY220UA?e=xbetsQ This is a practice dataset, so the findings are for learning and do not describe the real Uber Eats business.
 
 ## Author
 Jesal Chaudhari – https://www.linkedin.com/in/jesal-chaudhari-b560b139a/
