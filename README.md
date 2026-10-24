@@ -38,7 +38,8 @@ An Excel analysis of 100,000 food delivery orders (Jan 2025 – Aug 2026) to fin
 Excel: PivotTables, PivotCharts, COUNTIFS, SUMIFS, IF, DATE formulas, data cleaning and checking.
 
 ## Screenshots
-<img width="1470" height="743" alt="excel" src="https://github.com/user-attachments/assets/e525abfa-2bd5-4127-8124-1cc2b3705263" />
+<img width="1470" height="743" alt="summary" src="https://github.com/user-attachments/assets/f0dfb4e0-52e6-4242-9850-951c22e08378" />
+
 
 
 
